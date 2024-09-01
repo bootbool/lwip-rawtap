@@ -1,3 +1,5 @@
+Port lwip to run tcp/udp service on Linux using raw api, listens on tap device.
+
 # Abstract
 The code is ported from project lwip. <https://github.com/lwip-tcpip/lwip>  
 The main function is the implementation of TCP, UDP, IP, Ethernet protocol.
